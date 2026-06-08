@@ -2,6 +2,12 @@
   "name": "claude-man",
   "version": "0.1.0",
   "description": "Switch between multiple Claude Code accounts, nvm-style.",
+  "author": "Chandan Bhagat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechandanbhagat/claude-man.git"
+  },
   "type": "module",
   "bin": {
     "claude-man": "dist/index.js",

@@ -1,5 +1,9 @@
 # claude-man
 
+[![CI](https://github.com/thechandanbhagat/claude-man/actions/workflows/ci.yml/badge.svg)](https://github.com/thechandanbhagat/claude-man/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org)
+
 Switch between multiple Claude Code accounts, nvm-style.
 
 A "profile" is a snapshot of the two files that identify a logged-in Claude
@@ -65,3 +69,7 @@ The first switch also backs up your original login to
 npm test           # vitest
 npm run typecheck
 ```
+
+## License
+
+[MIT](LICENSE) © Chandan Bhagat
