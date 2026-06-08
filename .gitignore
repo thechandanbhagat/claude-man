@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+excluded/
+
+# Local Claude Code project settings
+.claude/
